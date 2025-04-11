@@ -2,7 +2,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilgkrishnan&show_icons=true" alt="akhilgkrishnan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilgkrishnan&show_icons=true" alt="Simon Tobon" /></p>
 
 <p align="center">
 <a href="https://dev.to/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
